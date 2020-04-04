@@ -11,11 +11,11 @@ JavaScript, Axios,Fetch,Node, Express, Sequelize y Mysql Workbench.
 
 #### Preview
 
-![foto](frontend/images/read.png) 
+![foto](images/read.png) 
 
 Aquí se puede apreciar que es responsive:
 
-![foto](frontend/images/responsive.png) 
+![foto](images/responsive.png) 
 
 
 ---
