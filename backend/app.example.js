@@ -2,7 +2,7 @@ import Sequelize from 'sequelize';
 import express from 'express';
 const PORT = process.env.PORT || 3000
 const app = express();
-const sequelize = new Sequelize('nintendo', 'root', '123456', {
+const sequelize = new Sequelize('nintendo', 'root', 'null', {
     host: 'localhost',
     dialect: 'mysql'
 });
